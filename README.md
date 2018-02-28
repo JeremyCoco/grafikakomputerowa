@@ -1,0 +1,2 @@
+# grafikakomputerowa
+Zadania z zajęć
