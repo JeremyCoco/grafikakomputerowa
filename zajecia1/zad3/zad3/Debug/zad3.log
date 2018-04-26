@@ -1,3 +1,4 @@
-﻿  zad3.cpp
-c:\users\hp\source\repos\grafikakomputerowa\zad3\zad3\zad3.cpp(90): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
-  zad3.vcxproj -> C:\Users\Hp\source\repos\grafikakomputerowa\zad3\Debug\zad3.exe
+﻿  stdafx.cpp
+  zad3.cpp
+c:\users\hp\source\repos\grafikakomputerowa\zajecia1\zad3\zad3\zad3.cpp(90): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
+  zad3.vcxproj -> C:\Users\Hp\source\repos\grafikakomputerowa\zajecia1\zad3\Debug\zad3.exe

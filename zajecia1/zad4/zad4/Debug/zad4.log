@@ -1,4 +1,4 @@
 ﻿  zad4.cpp
-c:\users\hp\source\repos\grafikakomputerowa\zad4\zad4\zad4.cpp(14): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
-c:\users\hp\source\repos\grafikakomputerowa\zad4\zad4\zad4.cpp(51): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
-  zad4.vcxproj -> C:\Users\Hp\source\repos\grafikakomputerowa\zad4\Debug\zad4.exe
+c:\users\hp\source\repos\grafikakomputerowa\zajecia1\zad4\zad4\zad4.cpp(14): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\hp\source\repos\grafikakomputerowa\zajecia1\zad4\zad4\zad4.cpp(51): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
+  zad4.vcxproj -> C:\Users\Hp\source\repos\grafikakomputerowa\zajecia1\zad4\Debug\zad4.exe
