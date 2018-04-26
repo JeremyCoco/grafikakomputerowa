@@ -1,0 +1,8 @@
+﻿  zad2.cpp
+c:\users\hp\source\repos\grafikakomputerowa\zajecia3\zad2\zad2.cpp(461): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+c:\users\hp\source\repos\grafikakomputerowa\zajecia3\zad2\zad2.cpp(466): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+c:\users\hp\source\repos\grafikakomputerowa\zajecia3\zad2\zad2.cpp(518): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\hp\source\repos\grafikakomputerowa\zajecia3\zad2\zad2.cpp(520): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\hp\source\repos\grafikakomputerowa\zajecia3\zad2\zad2.cpp(522): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\hp\source\repos\grafikakomputerowa\zajecia3\zad2\zad2.cpp(524): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+  zad2.vcxproj -> C:\Users\Hp\source\repos\grafikakomputerowa\zajecia3\zad1\Debug\zad2.exe

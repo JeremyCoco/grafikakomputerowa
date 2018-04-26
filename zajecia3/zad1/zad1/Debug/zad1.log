@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  zad1.cpp
+c:\users\hp\source\repos\grafikakomputerowa\zajecia3\zad1\zad1\zad1.cpp(30): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+c:\users\hp\source\repos\grafikakomputerowa\zajecia3\zad1\zad1\zad1.cpp(78): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+c:\users\hp\source\repos\grafikakomputerowa\zajecia3\zad1\zad1\zad1.cpp(81): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+c:\users\hp\source\repos\grafikakomputerowa\zajecia3\zad1\zad1\zad1.cpp(124): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\hp\source\repos\grafikakomputerowa\zajecia3\zad1\zad1\zad1.cpp(126): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\hp\source\repos\grafikakomputerowa\zajecia3\zad1\zad1\zad1.cpp(128): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\hp\source\repos\grafikakomputerowa\zajecia3\zad1\zad1\zad1.cpp(130): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\hp\source\repos\grafikakomputerowa\zajecia3\zad1\zad1\zad1.cpp(185): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u00B3" nie może być przedstawiony w bieżącej stronie kodowej (1250)
+c:\users\hp\source\repos\grafikakomputerowa\zajecia3\zad1\zad1\zad1.cpp(185): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u00EA" nie może być przedstawiony w bieżącej stronie kodowej (1250)
+c:\users\hp\source\repos\grafikakomputerowa\zajecia3\zad1\zad1\zad1.cpp(212): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u00B3" nie może być przedstawiony w bieżącej stronie kodowej (1250)
+c:\users\hp\source\repos\grafikakomputerowa\zajecia3\zad1\zad1\zad1.cpp(222): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u00EA" nie może być przedstawiony w bieżącej stronie kodowej (1250)
+c:\users\hp\source\repos\grafikakomputerowa\zajecia3\zad1\zad1\zad1.cpp(222): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u00B9" nie może być przedstawiony w bieżącej stronie kodowej (1250)
+c:\users\hp\source\repos\grafikakomputerowa\zajecia3\zad1\zad1\zad1.cpp(223): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u00B9" nie może być przedstawiony w bieżącej stronie kodowej (1250)
+c:\users\hp\source\repos\grafikakomputerowa\zajecia3\zad1\zad1\zad1.cpp(225): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u0153" nie może być przedstawiony w bieżącej stronie kodowej (1250)
+  zad1.vcxproj -> C:\Users\Hp\source\repos\grafikakomputerowa\zajecia3\zad1\Debug\zad1.exe

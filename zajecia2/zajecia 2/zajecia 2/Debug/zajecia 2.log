@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (zajecia 2.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  stdafx.cpp
+  zad1.cpp
+c:\users\hp\source\repos\grafikakomputerowa\zajecia2\zajecia 2\zajecia 2\zad1.cpp(29): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\hp\source\repos\grafikakomputerowa\zajecia2\zajecia 2\zajecia 2\zad1.cpp(30): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+  zajecia 2.vcxproj -> C:\Users\Hp\source\repos\grafikakomputerowa\zajecia2\zajecia 2\Debug\zad1.exe

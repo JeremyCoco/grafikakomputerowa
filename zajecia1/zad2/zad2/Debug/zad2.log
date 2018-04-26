@@ -1,0 +1,5 @@
+﻿  Pomijanie... (nie wykryto odpowiednich zmian)
+  stdafx.cpp
+  zad2.cpp
+c:\users\hp\source\repos\grafikakomputerowa\zajecia1\zad2\zad2\zad2.cpp(41): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
+  zad2.vcxproj -> C:\Users\Hp\source\repos\grafikakomputerowa\zajecia1\zad2\Debug\zad2.exe

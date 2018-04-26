@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  zad5.cpp
+c:\users\hp\source\repos\grafikakomputerowa\zad5\zad5\zad5.cpp(27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\hp\source\repos\grafikakomputerowa\zad5\zad5\zad5.cpp(28): warning C4244: "argument": konwersja z "GLfloat" do "GLint", możliwa utrata danych
+c:\users\hp\source\repos\grafikakomputerowa\zad5\zad5\zad5.cpp(38): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\hp\source\repos\grafikakomputerowa\zad5\zad5\zad5.cpp(39): warning C4244: "argument": konwersja z "GLfloat" do "GLint", możliwa utrata danych
+c:\users\hp\source\repos\grafikakomputerowa\zad5\zad5\zad5.cpp(49): warning C4244: "argument": konwersja z "GLfloat" do "GLint", możliwa utrata danych
+c:\users\hp\source\repos\grafikakomputerowa\zad5\zad5\zad5.cpp(71): warning C4244: "argument": konwersja z "int" do "const GLfloat", możliwa utrata danych
+c:\users\hp\source\repos\grafikakomputerowa\zad5\zad5\zad5.cpp(72): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+c:\users\hp\source\repos\grafikakomputerowa\zad5\zad5\zad5.cpp(108): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
+  zad5.vcxproj -> C:\Users\Hp\source\repos\grafikakomputerowa\zad5\Debug\zad5.exe
